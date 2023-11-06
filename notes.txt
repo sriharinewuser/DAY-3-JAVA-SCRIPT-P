@@ -1,0 +1,37 @@
+Declare four variables without assigning values and print them in console
+
+	
+2	let  variable1;
+3	let  variable2;
+4	let  variable3;
+5	let  variable4;
+6	
+7	console.log(a)
+8	console.log(b)
+9	console.log(c)
+10	console.log(d) 
+
+         
+variable1	undefined
+variable2	undefined
+variable3	undefined
+variable4	undefined
+
+Q2;How to get value of the variable myvar as output
+
+var myvar= 1;
+2	console.log("myvar");
+
+myvar 1
+
+
+Q3;Declare variables to store your first name, last name, marital status, country and age in multiple lines
+
+let first name = "sri";
+let second name = "hari";
+let marital staus = "single";
+let country = "india";
+let age = 21;
+
+
+Q4;
